@@ -8,5 +8,5 @@
 依次点击副卡助手受控端的打开网络、打开来电自动挂断，现在这张手机卡就被监控，有新的短信、来电都会立即传送到服务器上，可在监控端查看。
 [监控端传送门](http://www.binghai.site)
 ## app界面
-![f_40487304.jpg](http://image.binghai.site/data/f_40487304.jpg)
-![f_40320855.jpg](http://image.binghai.site/data/f_40320855.jpg)
+![](https://github.com/IceSeaOnly/SmsMailer/blob/master/IMG20170227204321.jpg)
+![](https://github.com/IceSeaOnly/SmsMailer/blob/master/IMG20170227204408.jpg)
